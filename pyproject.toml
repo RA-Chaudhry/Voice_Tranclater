@@ -1,0 +1,15 @@
+[project]
+name = "speak_and_transcribe"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.12",
+    "groq>=0.23.0",
+    "httpx>=0.28.1",
+    "python-multipart>=0.0.20",
+    "uvicorn[standard]>=0.34.2",
+    "google-generativeai",
+    "edge_tts",
+]
