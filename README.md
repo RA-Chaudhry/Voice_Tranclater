@@ -132,9 +132,6 @@ Contributions are welcome! Please fork the repo and submit a pull request.
 
 This project is licensed under the MIT License.
 
----
-
-## ✨ Acknowledgements
 
 * [Groq Whisper](https://console.groq.com/)
 * [Google Gemini](https://ai.google.dev/)
